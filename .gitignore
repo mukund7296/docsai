@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Docker
+*.log
+
+# Data
+backend/chroma_db/
+backend/uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+venv/
+__pycache__/
+*.pyc
+Learning/
+Prac/
+audio_chatbot.py
